@@ -131,13 +131,7 @@ multi-agent/
 
 ---
 
-## 🌐 Contact
 
-For questions or collaboration, feel free to connect:
-
-- **Author**: Abdul Basit
-- **GitHub**: [Abdulbasit110](https://github.com/Abdulbasit110)
-- **LinkedIn**: [Abdul Basit](https://www.linkedin.com/in/abdul-basit-231204255/)
 
 ---
 
